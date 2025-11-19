@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+openpyxl
+urllib3
+streamlit
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+textblob
