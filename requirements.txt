@@ -11,3 +11,6 @@ seaborn
 plotly
 wordcloud
 textblob
+spacy
+langdetect
+newspaper3k
